@@ -1,0 +1,7 @@
+$(function(){
+	$('#passk').click();
+});
+
+
+
+

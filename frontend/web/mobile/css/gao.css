@@ -1,0 +1,123 @@
+/*福利积分记录*/
+.kuang{
+	margin-left: 0 !important;
+	margin-right: 0 !important;
+	font-size: 12px;
+	}
+.kuang table{}
+.kuang th,.kuang td{
+	color: #555 !important;
+	}
+.kuang th{
+	font-weight: bolder !important;
+	}
+.kuang td.numeric-cell,
+.kuang th.numeric-cell {
+	text-align: center;
+	width: 20%;
+}
+.md .kuang td:first-child,
+.md .kuang th:first-child {
+	padding-left:4%
+}
+
+.md .kuang td:last-child,
+.md .kuang th:last-child {
+	padding-right:4%
+}
+.ios .kuang td,
+.ios .kuang th {
+	padding-left:0px;
+	padding-right:0px;
+	text-align: center;
+}
+.hc{background: #fffced;}
+
+.md .kuang td,
+.md .kuang th {
+	padding-left:0px;
+	padding-right: 0px
+}
+.rowx{margin-top:20px; }
+.rowx button{border-radius: 4px !important;height:36px !important;line-height: inherit !important;}
+
+
+/*资料修改*/
+.form{background:#fff;width: 100%;padding:30px 0;margin-top: 14px;}
+.form1{width:25% !important;}
+.inputx input{border: solid 1px #ccc;border-radius:4px;padding-left:6px;height: 40px !important;}
+.xx{margin-bottom:10px;}
+.xx:after{	background-color: #fff !important;}
+
+.list2{margin: 0 !important;} 
+.ios .list2 ul:before,.ios .list2 ul:after {
+	background-color: #fff;
+}
+.list2 li{margin-top: -10px;}
+.list3{margin-bottom:10px;}
+.md .list2 .item-input-wrap:after {
+	background:none !important;
+}
+.but{line-height: 40px !important;height: 40px !important;padding: 0;border:solid 1px #00a0e8 !important;}
+
+.ios .list2 .item-input-error-message,
+.ios .list2 .item-input-info {
+	margin-bottom:0px;
+	margin-top:2px
+}
+.mar{margin-bottom: 20px;}
+
+/*会员转账*/
+
+.top1{
+	width:100%;
+	height: 120px;
+	background-image:url(../img/xian.jpg);
+	background-size: 100%;
+	color: #fff;
+	padding:30px 14px 0px 14px;
+	text-align: center;
+	margin-left: -14px;
+	}
+.top1 span{display: block;font-size: 12px;}
+.top1 p{font-size:26px;margin:10px 0px;}
+.top1 a{color: #fff;font-size: 12px;text-align: right;display: block;padding-top:10px;}
+
+/*积分兑换*/ /*积分提现*/
+.input2 input{border: none;margin-left:6px;}
+.input2 input::input-placeholder{color:red !important;}
+.input2 input::-ms-input-placeholder{color:red !important;}
+.input2 input::-webkit-input-placeholder{color:red !important;}
+.input2 input::-moz-placeholder{color:red !important;}
+.input2 input:-moz-placeholder{color:red !important;}
+.xx2:after{	background-color: #fff !important;}
+.tishi{color: red !important;}
+.md .tishi{white-space: initial;margin-bottom: 0px;position:static;}
+.color1{color:#ef5f5f;}
+
+/*积分记录*/
+.box1 .toolbar:before{background: none;}
+.top2{
+	width: 100% !important;
+	background-image:url(../img/xian.jpg) !important;
+	background-size: 100% !important;
+	padding:14px ;
+	margin-left: -14px;
+	color: #fff;
+}
+.top2 input{text-align: center;width: 100%;font-size:16px;color: #fff;}
+.left1,.right1{text-align: center;height:20px;}
+.top2 input::input-placeholder{color:white;}
+.top2 input::-ms-input-placeholder{color:white;}
+.top2 input::-webkit-input-placeholder{color:white;}
+.top2 input::-moz-placeholder{color:white;}
+.top2 input:-moz-placeholder{color:white;}
+
+.xiu{margin:20px 0 20px 0 !important;background: #fff !important;}
+.xian{width: 100%;background: #deded4;height: 1px;}
+.mar1 div{margin:0px 0 10px 0;}
+.mar1 span{color:#2c99fe;}
+.mar1 p{color:#fe6c6d;margin: 0 !important;display: initial;}
+.mar1 a{color:#42b929;}
+
+.list4 li{padding-left: 0 !important;margin-bottom:10px !important;}
