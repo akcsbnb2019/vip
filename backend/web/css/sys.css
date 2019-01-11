@@ -1,0 +1,28 @@
+.layui-form .layui-form-item label.layui-form-label,.control-label{
+	width: 120px;
+	font-family: "Microsoft YaHei";
+}
+.layui-input-block{
+	margin-left: 160px;
+	width: auto;
+}
+.layui-disabled{
+	background: #EEEEEE;
+	color: #595963 !important;
+}
+.layui-disabled:hover{
+	color: #595963 !important;
+}
+.layui-input-block textarea{
+	height: 90px;
+}
+/* ÐÞ¸ÄÃÜÂë */
+.larry-body .changepwd{
+	padding-bottom: 60px;
+}
+.larry-body-content .change-submit{
+	padding-top: 20px;
+}
+.larry-body-content .change-submit .larry-tj{
+	margin-right: 20px;
+}

@@ -1,0 +1,7 @@
+.field-user-loginname{
+	margin:0; width: 100%;
+}
+.control-label,.help-block-error{
+	display: none;
+}
+.form-control{height: 38px;}
